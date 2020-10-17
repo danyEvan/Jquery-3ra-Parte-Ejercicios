@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&family=Piazzolla&family=Playfair+Display&family=Poppins&family=Raleway&family=Roboto&family=Source+Code+Pro&display=swap');
+
+
+body{
+    background-color: rgb(251, 231, 231);
+}
+
+li{
+    margin-top: .2rem;
+    padding: .2rem;
+}
