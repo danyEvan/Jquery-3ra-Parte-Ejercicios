@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&family=Piazzolla&family=Playfair+Display&family=Poppins&family=Raleway&family=Roboto&family=Source+Code+Pro&display=swap');
+
+
+body{
+    background-color: #eee;
+    font-family: "Montserrat";
+}
+
+h1{
+    font-family: "Poppins";
+    font-weight: 900;
+    
+}
+
